@@ -1,0 +1,6 @@
+https://diyprojects.io/esp8266-upload-data-folder-spiffs-littlefs-platformio/
+platformio run --target uploadfs
+
+Oder:
+pio menü
+upload file system
