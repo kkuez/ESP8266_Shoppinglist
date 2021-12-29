@@ -1,19 +1,23 @@
 {
     "items" :
     [
-        "Nudeln",
-        "Reis",
-        "Kartoffeln",
-        "Mais",
-        "Gehackte Tomaten",
-        "Sonnenblumenöl",
-        "Olivenöl",
-        "Gemüse",
+        "Balsamicoessig",
+        "Eier",
         "Feta",
-        "Parmesan",
+        "Fisch",
+        "Gehackte Tomaten",
+        "Gemüse",
         "Hafermilch",
-        "Zwiebeln",
+        "Kartoffeln",
         "Knoblauch",
-        "Balsamicoessig"
+        "Mais",
+        "Nudeln",
+        "Obst",
+        "Olivenöl",
+        "Parmesan",
+        "Reis",
+        "Sonnenblumenöl",
+        "Tofu",
+        "Zwiebeln"
     ]
 }
